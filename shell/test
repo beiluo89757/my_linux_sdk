@@ -1,0 +1,14 @@
+#!/bin/sh
+
+if test -f /bin/bash
+then
+    echo "/bin/bash exists"
+fi
+
+
+if [ -d /bin/bash ]
+then
+    echo "/bin/bash 1 is a directory"
+else
+    echo "/bin/bash 1 is NOT a directory"
+fi

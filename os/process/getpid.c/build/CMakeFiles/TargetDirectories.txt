@@ -1,0 +1,3 @@
+/Users/beiluo/Desktop/lucas/linux_sdk/os/process/getpid.c/build/CMakeFiles/rebuild_cache.dir
+/Users/beiluo/Desktop/lucas/linux_sdk/os/process/getpid.c/build/CMakeFiles/edit_cache.dir
+/Users/beiluo/Desktop/lucas/linux_sdk/os/process/getpid.c/build/CMakeFiles/test.dir
